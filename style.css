@@ -1,0 +1,16 @@
+#topo{
+	background-color: #000;
+	margin: -8px;
+	padding: 0px;
+}
+
+#menu{
+	width: 60%;
+	padding: 10px;
+	margin: 0 auto;
+}
+
+#titulo{
+	color: #fff;
+	font-size: 30px;
+}
