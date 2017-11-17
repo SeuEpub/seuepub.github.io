@@ -1,16 +1,42 @@
 #topo{
 	background-color: #000;
-	margin: -8px;
 	padding: 0px;
 }
 
 #menu{
-	width: 60%;
 	padding: 10px;
-	margin: 0 auto;
 }
 
 #titulo{
 	color: #fff;
 	font-size: 30px;
+}
+
+.geral{
+	width: 60%;
+	margin: 0 auto;
+}
+
+#pagina{
+	margin-top: 8px;
+}
+
+.divisao{
+	float: left;
+}
+
+#centro{
+	width: 60%;
+	
+}
+
+#direita{
+	width: 40%;	
+}
+
+#menu-frame{
+	width: 100%;
+	margin-left: -8px;
+	margin-top: -8px;
+	position: absolute;
 }
